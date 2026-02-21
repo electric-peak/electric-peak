@@ -1,6 +1,6 @@
 # Electric Peak Engineering (EPE)
 
-**Precisely Engineered Decentralized Power:** EPE is a Montana-based firm specializing in the design and integration of Distributed Energy Resources (DER). We bridge the gap between rigorous mechanical engineering and innovative software solutions to create resilient, economical, and modern energy systems.
+EPE is a Montana-based firm specializing in the design and integration of Distributed Energy Resources (DER). We bridge the gap between rigorous mechanical engineering and innovative software solutions to create modern energy systems.
 
 ## 🛠 Strategic Services
 - **Feasibility Studies:** Technical, economic, and environmental viability assessments for onsite power.
